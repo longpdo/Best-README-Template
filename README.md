@@ -1,14 +1,10 @@
-[![Issues][issues-shield]][issues-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/longpdo/repo">
+  <a href="https://github.com/longpdo/repositorysitory">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,11 +13,15 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/longpdo/repo">View Demo</a>
+    <a href="https://github.com/longpdo/repository">View Demo</a>
     ·
-    <a href="https://github.com/longpdo/repo/issues">Report Bug</a>
+    <a href="https://github.com/longpdo/repository/issues">Report Bug</a>
     ·
-    <a href="https://github.com/longpdo/repo/issues">Request Feature</a>
+    <a href="https://github.com/longpdo/repository/issues">Request Feature</a>
+    <br />
+    <br />
+    <a href="https://github.com/longpdo/repository/issues"><img src="https://badgen.net/github/open-issues/longpdo/repository" /></a>
+    <a href="LICENSE"><img src="https://badgen.net/github/license/longpdo/repository" /></a>
   </p>
 </p>
 
@@ -39,11 +39,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Screenshot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`repo`
+`repository`
 
 ### Built With
 * []()
@@ -62,9 +62,9 @@ npm install npm@latest -g
 ```
 
 ### Installation
-1. Clone the repo
+1. Clone the repository
 ```sh
-git clone https://github.com/longpdo/repo.git
+git clone https://github.com/longpdo/repository.git
 ```
 2. Install NPM packages
 ```sh
@@ -94,18 +94,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * []()
 * []()
 * []()
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/longpdo/repo.svg?style=flat-square
-[contributors-url]: https://github.com/longpdo/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/longpdo/repo.svg?style=flat-square
-[forks-url]: https://github.com/longpdo/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/longpdo/repo.svg?style=flat-square
-[stars-url]: https://github.com/longpdo/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/longpdo/repo.svg?style=flat-square
-[issues-url]: https://github.com/longpdo/repo/issues
-[license-shield]: https://img.shields.io/github/license/longpdo/repo.svg?style=flat-square
-[license-url]: https://github.com/longpdo/repo/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/longpdo
-[product-screenshot]: images/screenshot.png
