@@ -47,34 +47,36 @@ Here's a blank template to get started:
 `repo`
 
 ### Built With
-* []()
-* []()
-* []()
+* [Python 3.7.6](https://www.python.org/downloads/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Python 3
 ```sh
-npm install npm@latest -g
+# Install via brew on macOS
+brew install python
 ```
+For Linux and Windows refer to [this](https://realpython.com/installing-python/).
 
 ### Installation
 1. Clone the repo
 ```sh
 git clone https://github.com/longpdo/repo.git
 ```
-2. Install NPM packages
+2. Install python requirements
 ```sh
-npm install
+pip3 install -r requirements.txt
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* Description
+```sh
+python3 example.py
+```
 
 <!-- ROADMAP -->
 ## Roadmap
