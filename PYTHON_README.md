@@ -66,7 +66,11 @@ For Linux and Windows refer to [this](https://realpython.com/installing-python/)
 ```sh
 git clone https://github.com/longpdo/repo.git
 ```
-2. Install python requirements
+2. Change directory to repo
+```sh
+cd repo
+```
+3. Install python requirements
 ```sh
 pip3 install -r requirements.txt
 ```
