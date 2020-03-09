@@ -96,15 +96,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/longpdo/repo.svg?style=flat-square
 [contributors-url]: https://github.com/longpdo/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/longpdo/repo.svg?style=flat-square
 [forks-url]: https://github.com/longpdo/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/longpdo/repo.svg?style=flat-square
 [stars-url]: https://github.com/longpdo/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/longpdo/repo.svg?style=flat-square
 [issues-url]: https://github.com/longpdo/repo/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/longpdo/repo.svg?style=flat-square
 [license-url]: https://github.com/longpdo/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/longpdo
