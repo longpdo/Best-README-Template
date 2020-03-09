@@ -33,7 +33,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
@@ -81,10 +80,6 @@ pip3 install -r requirements.txt
 ```sh
 python3 example.py
 ```
-
-<!-- ROADMAP -->
-## Roadmap
-See the [open issues](https://github.com/longpdo/repo/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
