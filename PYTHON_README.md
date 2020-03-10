@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/longpdo/repository">
+  <a href="https://github.com/longpdo/_REPOSITORY_">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,15 +13,15 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/longpdo/repository">View Demo</a>
+    <a href="https://github.com/longpdo/_REPOSITORY_">View Demo</a>
     ·
-    <a href="https://github.com/longpdo/repository/issues">Report Bug</a>
+    <a href="https://github.com/longpdo/_REPOSITORY_/issues">Report Bug</a>
     ·
-    <a href="https://github.com/longpdo/repository/issues">Request Feature</a>
+    <a href="https://github.com/longpdo/_REPOSITORY_/issues">Request Feature</a>
     <br />
     <br />
-    <a href="https://github.com/longpdo/repository/issues"><img src="https://badgen.net/github/open-issues/longpdo/repository" /></a>
-    <a href="LICENSE"><img src="https://badgen.net/github/license/longpdo/repository" /></a>
+    <a href="https://github.com/longpdo/_REPOSITORY_/issues"><img src="https://badgen.net/github/open-issues/longpdo/_REPOSITORY_" /></a>
+    <a href="LICENSE"><img src="https://badgen.net/github/license/longpdo/_REPOSITORY_" /></a>
   </p>
 </p>
 
@@ -43,7 +43,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`repository`
+`_REPOSITORY_`
 
 ### Built With
 * [Python 3.7.6](https://www.python.org/downloads/)
@@ -63,11 +63,11 @@ For Linux and Windows refer to [this](https://realpython.com/installing-python/)
 ### Installation
 1. Clone the repository
 ```sh
-git clone https://github.com/longpdo/repository.git
+git clone https://github.com/longpdo/_REPOSITORY_.git
 ```
-2. Change directory to repository
+2. Change directory to _REPOSITORY_
 ```sh
-cd repository
+cd _REPOSITORY_
 ```
 3. Install python requirements
 ```sh
