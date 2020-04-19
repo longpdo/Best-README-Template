@@ -1,33 +1,22 @@
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
+<!-- TODO -->
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`_REPOSITORY_`
+<!-- REMOVE ABOVE -->
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/longpdo/_REPOSITORY_">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+# YOUR_TITLE <!-- omit in toc -->
 
-  <h3 align="center">YOUR_TITLE</h3>
+> YOUR_SHORT_DESCRIPTION
 
-  <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/longpdo/_REPOSITORY_">View Demo</a>
-    ·
-    <a href="https://github.com/longpdo/_REPOSITORY_/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/longpdo/_REPOSITORY_/issues">Request Feature</a>
-    <br />
-    <br />
-    <a href="https://github.com/longpdo/_REPOSITORY_/issues"><img src="https://badgen.net/github/open-issues/longpdo/_REPOSITORY_" /></a>
-    <a href="LICENSE"><img src="https://badgen.net/github/license/longpdo/_REPOSITORY_" /></a>
-  </p>
-</p>
+[![Open Issues](https://badgen.net/github/open-issues/longpdo/_REPOSITORY_)](https://github.com/longpdo/_REPOSITORY_/issues)
+[![License](https://badgen.net/github/license/longpdo/_REPOSITORY_)](LICENSE)
+
+[View Demo](https://github.com/longpdo/_REPOSITORY_) · [Report Bug](https://github.com/longpdo/_REPOSITORY_/issues) · [Request Feature](https://github.com/longpdo/_REPOSITORY_/issues)
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
-* [About the Project](#about-the-project)
+## Table of Contents <!-- omit in toc -->
+
+* [About The Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -39,21 +28,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 [![Product Screenshot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`_REPOSITORY_`
-
 ### Built With
+
 * [Python 3.7.6](https://www.python.org/downloads/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+
 * Python 3
+
 ```sh
 # Install via brew on macOS
 brew install python
@@ -61,28 +51,37 @@ brew install python
 For Linux and Windows refer to [this](https://realpython.com/installing-python/).
 
 ### Installation
-1. Clone the repository
+
+1: Clone the repository
+
 ```sh
 git clone https://github.com/longpdo/_REPOSITORY_.git
 ```
-2. Change directory to _REPOSITORY_
+
+2: Change directory to _REPOSITORY_
+
 ```sh
 cd _REPOSITORY_
 ```
-3. Install python requirements
+
+3: Install python requirements
+
 ```sh
 pip3 install -r requirements.txt
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
 * Description
+
 ```sh
 python3 example.py
 ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -93,10 +92,15 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
 * []()
 * []()
 * []()
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
