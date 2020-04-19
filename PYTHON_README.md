@@ -29,7 +29,7 @@ Here's a blank template to get started:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://example.com)
+[![Product Screenshot][product-screenshot]](https://github.com/longpdo/_REPOSITORY_)
 
 ### Built With
 
@@ -48,6 +48,7 @@ To get a local copy up and running follow these simple steps.
 # Install via brew on macOS
 brew install python
 ```
+
 For Linux and Windows refer to [this](https://realpython.com/installing-python/).
 
 ### Installation

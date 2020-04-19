@@ -29,7 +29,7 @@ Here's a blank template to get started:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://example.com)
+[![Product Screenshot][product-screenshot]](https://github.com/longpdo/_REPOSITORY_)
 
 ### Built With
 
