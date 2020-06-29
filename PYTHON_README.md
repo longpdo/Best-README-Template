@@ -53,19 +53,22 @@ For Linux and Windows refer to [this](https://realpython.com/installing-python/)
 
 ### Installation
 
-1: Clone the repository
+1: Fork the repository (using the `Fork` button at the top)
+
+2: Clone the repository
 
 ```sh
-git clone https://github.com/longpdo/_REPOSITORY_.git
+# Replace {YOUR_USERNAME} with your actual username
+git clone https://github.com/{YOUR_USERNAME}/_REPOSITORY_.git
 ```
 
-2: Change directory to _REPOSITORY_
+3: Change directory to _REPOSITORY_
 
 ```sh
 cd _REPOSITORY_
 ```
 
-3: Install python requirements
+4: Install python requirements
 
 ```sh
 pip3 install -r requirements.txt
